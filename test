@@ -1,0 +1,12 @@
+{
+    "dataUrl":"https://gitlab.com/ar13101085/ttt/raw/master/_dd_",
+    "av":19,
+    "appUrl":"https://bitbucket.org/nillshetara/aostv/raw/256b3fccc89b9313d386ca4701d8c558e3234dcc/aostv_V18.0.4.apk",
+    "ba":["com.minhui.networkcapture","com.guoshi.httpcanary","com.minhui.networkcapture.pro","app.greyshirts.sslcapture","com.evbadroid.proxymon","com.guoshi.httpcanary.premium","com.eakteam.networkmanager"],
+    "ad":[],
+    "adsp":[0,1,2],
+    "ignoreUrl":["ingest666","anil2gtv"],
+    "defaultplay":"https://gitlab.com/aosconfig/channel-data/raw/master/aos_default_play.mp4",
+    "lv":"180004",
+    "lvu":"https://gitlab.com/ar13101085/ttt/raw/master/lib/180004"
+}
